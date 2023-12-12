@@ -1,4 +1,4 @@
-<img src="https://brokerchooser.com/images/logo.svg" alt="BrokerChooser logo">
+<img src="https://brokerchooser.com/images/brokerchooser-og-image.jpg" alt="BrokerChooser logo">
 
 ## BrokerChooser Senior Backend Developer Homework
 
