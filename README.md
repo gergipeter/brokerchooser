@@ -42,11 +42,9 @@ To run the PHP unit tests:
 
 Make sure that these extensions are available in your `php.ini`
 
-  
+    fileinfo.dll
+    pdo_mysql.dll
 
-fileinfo.dll
-
-pdo_mysql.dll
 
   
   
