@@ -1,0 +1,26 @@
+.square-box {
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  background-color: white;
+  box-shadow: 10px 0 10px #ccc;
+  border: 2px solid #2c5282;
+  border-radius: 10px;
+  position: relative;
+  float: left;
+}
+
+#main-box {
+  padding: 4rem 2rem;
+  margin-bottom: 2rem;
+  background-color: #e9ecef;
+  border-radius: .3rem;
+}
+
+.subText {
+  text-align: justify;
+  text-justify: auto;
+  width: 350px;
+}
