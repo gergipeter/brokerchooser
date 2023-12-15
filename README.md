@@ -28,6 +28,10 @@
     php artisan migrate
     php artisan db:seed
 
+Test the application: (default url: http://127.0.0.1:8000/)
+
+    php artisan serve
+
 To run the PHP unit tests:
 
   
