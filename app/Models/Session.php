@@ -9,6 +9,8 @@ class Session extends Model
 {
     use HasFactory;
 
+    protected $fillable = ['time'];
+
     protected $casts = [
         'time' => 'datetime:Y-m-d H:i:s',
     ];
