@@ -34,11 +34,12 @@ Test the application: (default url: http://127.0.0.1:8000/)
 
 To run the PHP unit tests:
 
-  
-
     php artisan test
 
   
+Simulate dummy data with DB Seeder:
+
+    php artisan db:seed
 
 Make sure that these extensions are available in your `php.ini`
 
